@@ -1,3 +1,5 @@
 User: cong-nt
 Email:cong1989.nt@gmail.com
 password: 123456
+********************************************
+https://github.com/cong-nt/angular2
